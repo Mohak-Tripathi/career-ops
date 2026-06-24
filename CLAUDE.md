@@ -266,6 +266,48 @@ Verify a posting is still live before applying — using the cheapest check that
 
 ---
 
+## Git Safety — CRITICAL (User Rule)
+
+**NEVER run any git command that changes repository state without explicit user permission.** This includes:
+- `git commit`, `git push`, `git pull`, `git merge`, `git rebase`
+- `git add`, `git rm`, `git reset`, `git checkout` (branch switches)
+- `git stash`, `git tag`, `git branch -d`
+- `gh pr create`, `gh pr merge`, any `gh` write operations
+
+**Allowed without permission (read-only):**
+- `git status`, `git log`, `git diff`, `git show`
+- `git fetch` (fetch only, no merge)
+- `git branch` (list only), `git remote -v`
+- `gh pr list`, `gh pr view`, `gh issue list` (read-only gh commands)
+
+**Rule:** Always show the user what git command you intend to run and ask for confirmation before executing anything that modifies git state or pushes to remote.
+
+## Branching Strategy (User Rule)
+
+This repo has two separate tracks. Never mix them.
+
+**`custom` branch — personal work (default for all job search activity)**
+- All personal files: `cv.md`, `config/profile.yml`, `modes/_profile.md`, `portals.yml`
+- All job search output: `data/`, `reports/`, `output/`, `interview-prep/`
+- Personal configs: `.claude/settings.json`, `PersonalLearning.md`, `data/target-companies.md`
+- System customizations: any edits to portals, profile, scoring weights
+- **Always commit and push to `origin custom`** — never to `main`
+- Cross-machine sync: `git pull origin custom` on any other machine
+
+**`main` branch — upstream sync only**
+- Tracks the upstream open source project (`santifer/career-ops` or equivalent)
+- Never commit personal work here
+- Update via: `git fetch upstream && git merge upstream/main` (or rebase)
+- Then merge `main` into `custom` to get system updates: `git checkout custom && git merge main`
+
+**`feature/xyz` branches — open source contributions (future)**
+- Branch FROM `main`, never from `custom`
+- Contains only non-personal, upstream-safe changes
+- PR target: upstream `main`, not this repo's `main`
+- Workflow: `git checkout main && git checkout -b feature/xyz` → work → PR to upstream
+
+**RULE: Never push personal data (cv.md, profile.yml, reports, applications) to any branch other than `custom`.**
+
 ## CI/CD and Quality
 
 - **GitHub Actions** run on every PR: `test-all.mjs` (63+ checks), auto-labeler (risk-based: 🔴 core-architecture, ⚠️ agent-behavior, 📄 docs), welcome bot for first-time contributors

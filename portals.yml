@@ -128,6 +128,56 @@ search_queries:
     query: 'site:himalayas.app "Backend Engineer" OR "Software Engineer" India OR remote "Node.js" OR "TypeScript"'
     enabled: true
 
+  # ── LAYER 4 — Channel searches (high volume, run daily) ───────────────────
+
+  - name: CutShort — Backend SDE2 Bangalore
+    query: 'site:cutshort.io "Backend Engineer" OR "SDE2" OR "Software Engineer" Bengaluru OR Bangalore "Node.js" OR "TypeScript" OR "GraphQL"'
+    enabled: true
+
+  - name: CutShort — Backend Node.js India
+    query: 'site:cutshort.io "Backend Engineer" OR "Backend Developer" India "Node.js" OR "TypeScript" 3 OR 4 OR 5 years'
+    enabled: true
+
+  - name: CutShort — SDE2 Fintech SaaS
+    query: 'site:cutshort.io "SDE2" OR "SDE-2" OR "Senior Software Engineer" fintech OR SaaS Bangalore'
+    enabled: true
+
+  - name: Instahyre — Senior Backend Bangalore
+    query: 'site:instahyre.com "Senior Backend Engineer" OR "Senior Software Engineer" Bangalore "Node.js" OR "TypeScript" OR "GraphQL"'
+    enabled: true
+
+  - name: Instahyre — Backend SDE2 Bangalore
+    query: 'site:instahyre.com "Backend Engineer" OR "SDE2" OR "Software Engineer" Bangalore backend'
+    enabled: true
+
+  - name: Wellfound — Backend Engineer Bangalore startups
+    query: 'site:wellfound.com "Backend Engineer" OR "Software Engineer" Bangalore "Node.js" OR "TypeScript" series OR funded'
+    enabled: true
+
+  - name: Wellfound — Node.js India remote
+    query: 'site:wellfound.com "Node.js" OR "Node JS" backend engineer India remote OR Bangalore'
+    enabled: true
+
+  - name: AngelList — Backend SDE India funded startup
+    query: 'site:angel.co "Backend Engineer" OR "SDE2" OR "Software Engineer" India Bangalore funded'
+    enabled: true
+
+  - name: Naukri — Backend Node.js 3-6 years Bangalore
+    query: 'site:naukri.com "Backend Developer" OR "Backend Engineer" "Node.js" OR "Node JS" "3 to 6" OR "3-6" years Bangalore'
+    enabled: true
+
+  - name: Naukri — Senior Backend Engineer Bangalore product
+    query: 'site:naukri.com "Senior Backend Engineer" OR "Senior Software Engineer" Bangalore "product" OR "startup" "Node" OR "TypeScript"'
+    enabled: true
+
+  - name: iimjobs — Software Engineer IT product Bangalore
+    query: 'site:iimjobs.com "Software Engineer" OR "Backend Engineer" Bangalore IT product SaaS'
+    enabled: true
+
+  - name: Peerlist — Backend Engineer India
+    query: 'site:peerlist.io "Backend Engineer" OR "Software Engineer" India Bangalore "Node.js" OR "TypeScript"'
+    enabled: true
+
 tracked_companies:
 
   # ── WAVE 1 — Apply Now ────────────────────────────────────────────────────
@@ -445,3 +495,215 @@ tracked_companies:
     scan_method: websearch
     scan_query: 'site:amazon.jobs "Software Development Engineer" OR "SDE" Bangalore India'
     enabled: true
+
+  # ── WAVE 2 (continued) — Missing from initial setup ──────────────────────
+
+  - name: Slice
+    careers_url: https://slice.bank.in/careers
+    scan_method: websearch
+    scan_query: 'site:slice.bank.in/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: CoinDCX
+    careers_url: https://coindcx.com/careers
+    scan_method: websearch
+    scan_query: 'site:coindcx.com/careers "Backend" OR "Software Engineer" OR "SDE" Mumbai'
+    enabled: true
+
+  - name: CoinSwitch
+    careers_url: https://coinswitch.co/careers
+    scan_method: websearch
+    scan_query: 'site:coinswitch.co/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Acko
+    careers_url: https://www.acko.com/careers
+    scan_method: websearch
+    scan_query: 'site:acko.com/careers "Backend" OR "Software Engineer" OR "SDE" Mumbai'
+    enabled: true
+
+  - name: Urban Company
+    careers_url: https://urbancompany.com/careers
+    scan_method: websearch
+    scan_query: 'site:urbancompany.com/careers "Backend" OR "Software Engineer" OR "SDE" Gurgaon'
+    enabled: true
+
+  - name: Cars24
+    careers_url: https://www.cars24.com/careers
+    scan_method: websearch
+    scan_query: 'site:cars24.com/careers "Backend" OR "Software Engineer" OR "SDE" Gurgaon'
+    enabled: true
+
+  - name: Games24x7
+    careers_url: https://www.games24x7.com/careers
+    scan_method: websearch
+    scan_query: 'site:games24x7.com/careers "Backend" OR "Software Engineer" OR "SDE" Mumbai'
+    enabled: true
+
+  - name: MPL (Mobile Premier League)
+    careers_url: https://www.mobilepremierleague.com/careers
+    scan_method: websearch
+    scan_query: 'site:mobilepremierleague.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: OfBusiness
+    careers_url: https://www.ofbusiness.com/careers
+    scan_method: websearch
+    scan_query: 'site:ofbusiness.com/careers "Backend" OR "Software Engineer" OR "SDE" Gurgaon'
+    enabled: true
+
+  - name: BlackBuck
+    careers_url: https://blackbuck.com/careers
+    scan_method: websearch
+    scan_query: 'site:blackbuck.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Icertis
+    careers_url: https://www.icertis.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:icertis.com/company/careers "Backend" OR "Software Engineer" OR "SDE" Pune'
+    enabled: true
+
+  - name: HighRadius
+    careers_url: https://www.highradius.com/careers
+    scan_method: websearch
+    scan_query: 'site:highradius.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Yellow.ai
+    careers_url: https://yellow.ai/careers
+    scan_method: websearch
+    scan_query: 'site:yellow.ai/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: NoBroker
+    careers_url: https://www.nobroker.in/careers
+    scan_method: websearch
+    scan_query: 'site:nobroker.in/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Open Financial
+    careers_url: https://open.money/careers
+    scan_method: websearch
+    scan_query: 'site:open.money/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Niyo
+    careers_url: https://www.niyo.com/careers
+    scan_method: websearch
+    scan_query: 'site:niyo.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  # ── WAVE 3 (continued) — Missing from initial setup ──────────────────────
+
+  - name: Fractal Analytics
+    careers_url: https://fractal.ai/careers
+    scan_method: websearch
+    scan_query: 'site:fractal.ai/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore OR Mumbai'
+    enabled: true
+
+  - name: Elastic
+    careers_url: https://www.elastic.co/careers
+    api: https://boards-api.greenhouse.io/v1/boards/elastic/jobs
+    enabled: true
+
+  - name: Notion
+    careers_url: https://www.notion.so/careers
+    scan_method: websearch
+    scan_query: 'site:notion.so/careers "Backend" OR "Software Engineer" remote India'
+    enabled: true
+
+  - name: Intercom
+    careers_url: https://www.intercom.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    enabled: true
+
+  - name: Linear
+    careers_url: https://linear.app/careers
+    scan_method: websearch
+    scan_query: 'site:linear.app/careers "Backend" OR "Software Engineer" remote'
+    enabled: true
+
+  # ── LAYER 3 — Indian Product + Global MNC (beyond target list) ───────────
+
+  - name: Headout
+    careers_url: https://www.headout.com/careers
+    scan_method: websearch
+    scan_query: 'site:headout.com/careers OR site:instahyre.com "headout" "Backend" OR "Software Engineer" Bangalore'
+    notes: "Travel experiences platform. $60M+ funded. Node.js in stack. Active hiring."
+    enabled: true
+
+  - name: PayU India
+    careers_url: https://careers.payu.in
+    scan_method: websearch
+    scan_query: 'site:careers.payu.in "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    notes: "Naspers fintech subsidiary. Payments. Active hiring."
+    enabled: true
+
+  - name: Walmart Global Tech
+    careers_url: https://careers.walmart.com
+    scan_method: websearch
+    scan_query: 'site:careers.walmart.com "Backend" OR "Software Engineer" OR "SDE" Bangalore India'
+    notes: "MNC India office. Real product work. Large backend teams."
+    enabled: true
+
+  - name: MakeMyTrip
+    careers_url: https://careers.makemytrip.com
+    scan_method: websearch
+    scan_query: 'site:careers.makemytrip.com "Backend" OR "Software Engineer" OR "SDE" Bangalore OR Gurgaon'
+    enabled: true
+
+  - name: Coupang India
+    careers_url: https://www.coupang.com/np/join-us
+    scan_method: websearch
+    scan_query: 'site:instahyre.com "coupang" "Backend" OR "Software Engineer" Bangalore'
+    notes: "Korean e-commerce giant with Bangalore engineering hub."
+    enabled: true
+
+  - name: Delhivery
+    careers_url: https://www.delhivery.com/careers
+    scan_method: websearch
+    scan_query: 'site:delhivery.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore OR Gurgaon'
+    enabled: true
+
+  - name: Nium
+    careers_url: https://nium.com/careers
+    scan_method: websearch
+    scan_query: 'site:nium.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    notes: "Cross-border payments platform. Global fintech, India office."
+    enabled: true
+
+  - name: Khatabook
+    careers_url: https://khatabook.com/careers
+    scan_method: websearch
+    scan_query: 'site:khatabook.com/careers OR site:instahyre.com "khatabook" "Backend" OR "Software Engineer" Bangalore'
+    notes: "SMB fintech. Sequoia-backed."
+    enabled: true
+
+  - name: DoSelect
+    careers_url: https://doselect.com/careers
+    scan_method: websearch
+    scan_query: 'site:cutshort.io "doselect" "Backend" OR "Software Engineer" Bangalore'
+    notes: "Tech assessment SaaS platform. Remote-friendly. Active on CutShort."
+    enabled: true
+
+  - name: Netcore Unbxd
+    careers_url: https://netcorecloud.com/careers
+    scan_method: websearch
+    scan_query: 'site:instahyre.com "netcore" OR "unbxd" "Backend" OR "Software Engineer" Bangalore'
+    notes: "Martech + e-commerce search platform."
+    enabled: true
+
+  - name: Ixigo
+    careers_url: https://www.ixigo.com/info/careers
+    scan_method: websearch
+    scan_query: 'site:ixigo.com/info/careers OR site:instahyre.com "ixigo" "Backend" OR "Software Engineer" Gurgaon'
+    notes: "Listed travel tech company."
+    enabled: true
+
+  - name: Meesho (Wave 1 crosslisted)
+    careers_url: https://meesho.io/careers
+    scan_method: websearch
+    scan_query: 'site:meesho.io/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: false
+
