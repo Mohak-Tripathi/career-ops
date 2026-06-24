@@ -1,0 +1,74 @@
+candidate:
+  full_name: "Mohak Tripathi"
+  email: "mohaktripathi029@gmail.com"
+  phone: "+91 7905393871"
+  location: "Bengaluru, India"
+  linkedin: "linkedin.com/in/mohak-tripathi"
+  github: "github.com/Mohak-Tripathi"
+  portfolio_url: ""
+
+target_roles:
+  primary:
+    - "Senior Software Engineer (Backend)"
+    - "Software Engineer II / SDE2 (Backend)"
+    - "SDE2 Backend Engineer"
+  archetypes:
+    - name: "Backend Engineer (SDE2/SDE3)"
+      level: "Senior"
+      fit: "primary"
+    - name: "Backend Engineer with AI Integration"
+      level: "Senior"
+      fit: "primary"
+    - name: "Full Stack Engineer (Backend-Heavy)"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Platform / Infrastructure Engineer"
+      level: "Senior"
+      fit: "adjacent"
+
+narrative:
+  headline: "Backend-heavy SDE with 3.5 years building production multi-tenant SaaS + AI integration at startup speed"
+  exit_story: "Built and shipped two production B2B SaaS products simultaneously as backend lead at early-stage startups. Now targeting Indian unicorns and high-growth product companies where strong backend fundamentals and AI integration experience create a compounding advantage."
+  superpowers:
+    - "0→1 backend systems: built Terrisage from scratch — GraphQL API, multi-tenancy, RBAC, iOS/Android/Web production deployment"
+    - "AI integration in production: LangChain/LangGraph agentic workflows, Whisper voice transcription — shipped, not prototyped"
+    - "Multi-tenant architecture: RBAC, data isolation, subscription billing across multiple production products"
+    - "Full ownership mindset: sole backend engineer on Terrisage (Node.js, PostgreSQL, AWS, test pyramid, monitoring)"
+    - "DSA: 400+ problems solved on LeetCode and GFG"
+  proof_points:
+    - name: "Terrisage — B2B Real Estate CRM (0→1)"
+      url: "https://github.com/Mohak-Tripathi/terrisage-architecture"
+      hero_metric: "Live on App Store + Play Store; webhook pipelines for Meta Ads, MagicBricks, 99acres"
+    - name: "Agentic AI Proposal Automation"
+      url: ""
+      hero_metric: "Proposal throughput 4→7/week; LangChain + LangGraph + RAG in production"
+    - name: "Multi-Tenant SaaS Platform (V-Align)"
+      url: ""
+      hero_metric: "Razorpay billing integration cutting manual ops by 60%; 20K+ records/day ETL"
+    - name: "IoT Real-Time Monitoring Platform"
+      url: ""
+      hero_metric: "Sub-second ingestion via MQTT/Telegraf/InfluxDB; 30% dashboard load improvement"
+    - name: "LiftUP — Gym Management SaaS"
+      url: "https://gym-management-saas-frontend-lcle.vercel.app/"
+      hero_metric: "500+ members across tenants at 99.5% uptime"
+
+compensation:
+  target_range: "30–55 LPA"
+  currency: "INR"
+  minimum: "25 LPA"
+  location_flexibility: "Bengaluru strongly preferred; open to Mumbai, Gurgaon, Delhi NCR, Noida; remote-friendly open"
+
+location:
+  country: "India"
+  city: "Bengaluru"
+  timezone: "IST (UTC+5:30)"
+  visa_status: "Indian citizen, no sponsorship needed"
+
+cover_letter:
+  notice_period_days: 30
+  primary_domain: "B2B SaaS / fintech / backend engineering"
+
+cv:
+  output_format: "html"
+
+auto_pdf_score_threshold: 4.0

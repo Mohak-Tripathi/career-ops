@@ -1,0 +1,447 @@
+# Portal Scanner Configuration — Mohak Tripathi
+# Targeting: Backend SDE2/SDE3 roles at Indian unicorns + select global companies
+# Updated: 2026-06-24
+
+title_filter:
+  positive:
+    # Backend / SWE roles
+    - "Backend Engineer"
+    - "Backend Developer"
+    - "Software Engineer"
+    - "Software Developer"
+    - "SDE"
+    - "SDE2"
+    - "SDE-2"
+    - "SDE 2"
+    - "SDE3"
+    - "Senior Software Engineer"
+    - "Senior Backend"
+    - "Senior Engineer"
+    - "Platform Engineer"
+    - "Full Stack Engineer"
+    - "Full Stack Developer"
+    - "Node.js"
+    - "Node JS"
+    # API / system design signals
+    - "API Engineer"
+    - "GraphQL"
+    - "Distributed Systems"
+    # AI integration angle
+    - "AI Engineer"
+    - "ML Engineer"
+    - "LLM"
+    - "GenAI"
+    - "Agentic"
+  negative:
+    - "Junior"
+    - "Intern"
+    - "Fresher"
+    - "Trainee"
+    - "Data Scientist"
+    - "Data Analyst"
+    - "iOS"
+    - "Android"
+    - "Mobile"
+    - "React Native"
+    - "DevOps"
+    - "SRE"
+    - "QA"
+    - "Test Engineer"
+    - "Security Engineer"
+    - "Embedded"
+    - "Firmware"
+    - "Hardware"
+    - "COBOL"
+    - "SAP"
+    - "Mainframe"
+    - "PHP"
+    - "Java "
+    - ".NET"
+    - "C# "
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "Sales"
+    - "Marketing"
+    - "HR"
+    - "Finance"
+    - "Operations"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "SDE2"
+    - "SDE3"
+
+search_queries:
+  # -- LinkedIn India searches --
+  - name: LinkedIn — Backend SDE2 Bangalore
+    query: 'site:linkedin.com/jobs "Backend Engineer" OR "SDE2" OR "Senior Software Engineer" Bangalore "Node.js" OR "TypeScript" OR "GraphQL"'
+    enabled: true
+
+  - name: LinkedIn — Backend Engineer Indian Unicorns
+    query: 'site:linkedin.com/jobs "Backend Engineer" OR "Software Engineer" "Razorpay" OR "CRED" OR "PhonePe" OR "Swiggy" OR "Groww" OR "Meesho"'
+    enabled: true
+
+  - name: LinkedIn — SDE2 Remote India
+    query: 'site:linkedin.com/jobs "SDE2" OR "SDE-2" OR "Senior Backend Engineer" India remote "Node.js" OR "TypeScript"'
+    enabled: true
+
+  # -- Naukri searches --
+  - name: Naukri — Senior Backend Engineer Bangalore
+    query: 'site:naukri.com "Senior Backend Engineer" OR "SDE2" OR "Backend Developer" Bangalore "Node.js" OR "TypeScript" OR "GraphQL"'
+    enabled: true
+
+  - name: Naukri — Software Engineer Unicorn
+    query: 'site:naukri.com "Software Engineer" "5-8 years" OR "3-6 years" Bangalore fintech OR SaaS'
+    enabled: true
+
+  # -- Instahyre / AngelList India --
+  - name: Instahyre — Backend Engineer
+    query: 'site:instahyre.com "Backend Engineer" OR "SDE2" OR "Senior Software Engineer" Bangalore'
+    enabled: true
+
+  - name: AngelList / Wellfound — Indian Startups Backend
+    query: 'site:wellfound.com/jobs "Backend Engineer" OR "SDE" India Bangalore "Node.js" OR "TypeScript"'
+    enabled: true
+
+  # -- Global boards for Wave 3 companies --
+  - name: Greenhouse — Backend / SDE Global
+    query: 'site:job-boards.greenhouse.io "Backend Engineer" OR "Senior Software Engineer" India OR Bangalore OR remote'
+    enabled: true
+
+  - name: Ashby — Backend Engineer
+    query: 'site:jobs.ashbyhq.com "Backend Engineer" OR "Software Engineer" India OR Bangalore OR remote'
+    enabled: true
+
+  - name: Lever — Backend Engineer India
+    query: 'site:jobs.lever.co "Backend Engineer" OR "Senior Software Engineer" India OR Bangalore OR remote'
+    enabled: true
+
+  # -- Remote-first global (Wave 3) --
+  - name: Remote OK — Backend / Node.js
+    query: 'site:remoteok.com "Backend Engineer" OR "Node.js Engineer" OR "Senior Software Engineer" India OR remote'
+    enabled: true
+
+  - name: Himalayas — Remote Backend India
+    query: 'site:himalayas.app "Backend Engineer" OR "Software Engineer" India OR remote "Node.js" OR "TypeScript"'
+    enabled: true
+
+tracked_companies:
+
+  # ── WAVE 1 — Apply Now ────────────────────────────────────────────────────
+
+  - name: Razorpay
+    careers_url: https://razorpay.com/jobs
+    scan_method: websearch
+    scan_query: 'site:razorpay.com/jobs "Backend" OR "SDE" OR "Software Engineer"'
+    enabled: true
+
+  - name: CRED
+    careers_url: https://careers.cred.club
+    scan_method: websearch
+    scan_query: 'site:careers.cred.club "Backend" OR "Software Engineer" OR "SDE"'
+    enabled: true
+
+  - name: PhonePe
+    careers_url: https://www.phonepe.com/careers
+    scan_method: websearch
+    scan_query: 'site:phonepe.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Groww
+    careers_url: https://groww.in/careers
+    scan_method: websearch
+    scan_query: 'site:groww.in/careers "Backend" OR "Software Engineer" OR "SDE"'
+    enabled: true
+
+  - name: Meesho
+    careers_url: https://meesho.io/careers
+    scan_method: websearch
+    scan_query: 'site:meesho.io/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Swiggy
+    careers_url: https://careers.swiggy.com
+    api: https://boards-api.greenhouse.io/v1/boards/swiggy/jobs
+    enabled: true
+
+  - name: Dream11
+    careers_url: https://www.dream11.com/careers
+    scan_method: websearch
+    scan_query: 'site:dream11.com/careers "Backend" OR "Software Engineer" OR "SDE" Mumbai'
+    enabled: true
+
+  - name: Freshworks
+    careers_url: https://www.freshworks.com/company/careers
+    api: https://boards-api.greenhouse.io/v1/boards/freshworks/jobs
+    enabled: true
+
+  - name: Postman
+    careers_url: https://www.postman.com/company/careers
+    api: https://boards-api.greenhouse.io/v1/boards/postman/jobs
+    enabled: true
+
+  - name: BrowserStack
+    careers_url: https://www.browserstack.com/careers
+    scan_method: websearch
+    scan_query: 'site:browserstack.com/careers "Backend" OR "Software Engineer" OR "SDE"'
+    enabled: true
+
+  - name: Rippling
+    careers_url: https://www.rippling.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/rippling/jobs
+    enabled: true
+
+  - name: Chargebee
+    careers_url: https://www.chargebee.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/chargebee/jobs
+    enabled: true
+
+  - name: Fi Money
+    careers_url: https://fi.money/careers
+    scan_method: websearch
+    scan_query: 'site:fi.money/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Jupiter Money
+    careers_url: https://jupiter.money/careers
+    scan_method: websearch
+    scan_query: 'site:jupiter.money/careers "Backend" OR "Software Engineer" OR "SDE"'
+    enabled: true
+
+  - name: Setu
+    careers_url: https://setu.co/careers
+    scan_method: websearch
+    scan_query: 'site:setu.co/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Smallcase
+    careers_url: https://smallcase.com/careers
+    scan_method: websearch
+    scan_query: 'site:smallcase.com/careers "Backend" OR "Software Engineer" OR "SDE"'
+    enabled: true
+
+  - name: Truecaller
+    careers_url: https://www.truecaller.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/truecaller/jobs
+    enabled: true
+
+  - name: BharatPe
+    careers_url: https://bharatpe.com/careers
+    scan_method: websearch
+    scan_query: 'site:bharatpe.com/careers "Backend" OR "Software Engineer" OR "SDE" Delhi OR NCR'
+    enabled: true
+
+  - name: Blinkit
+    careers_url: https://blinkit.com/careers
+    scan_method: websearch
+    scan_query: 'site:blinkit.com/careers "Backend" OR "Software Engineer" OR "SDE"'
+    enabled: true
+
+  - name: Perfios
+    careers_url: https://www.perfios.com/careers
+    scan_method: websearch
+    scan_query: 'site:perfios.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Innovaccer
+    careers_url: https://innovaccer.com/careers
+    scan_method: websearch
+    scan_query: 'site:innovaccer.com/careers "Backend" OR "Software Engineer" OR "SDE"'
+    enabled: true
+
+  # ── WAVE 2 — Late June to July ────────────────────────────────────────────
+
+  - name: Flipkart
+    careers_url: https://www.flipkartcareers.com
+    scan_method: websearch
+    scan_query: 'site:flipkartcareers.com "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Zomato
+    careers_url: https://www.zomato.com/careers
+    scan_method: websearch
+    scan_query: 'site:zomato.com/careers "Backend" OR "Software Engineer" OR "SDE" Gurgaon'
+    enabled: true
+
+  - name: Zepto
+    careers_url: https://www.zeptonow.com/careers
+    scan_method: websearch
+    scan_query: 'site:zeptonow.com/careers "Backend" OR "Software Engineer" OR "SDE" Mumbai'
+    enabled: true
+
+  - name: Wise
+    careers_url: https://wise.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/wise/jobs
+    enabled: true
+
+  - name: Revolut
+    careers_url: https://www.revolut.com/careers
+    scan_method: websearch
+    scan_query: 'site:revolut.com/careers "Backend" OR "Software Engineer" India OR remote'
+    enabled: true
+
+  - name: Upstox
+    careers_url: https://upstox.com/careers
+    scan_method: websearch
+    scan_query: 'site:upstox.com/careers "Backend" OR "Software Engineer" OR "SDE" Mumbai'
+    enabled: true
+
+  - name: ShareChat
+    careers_url: https://sharechat.com/careers
+    scan_method: websearch
+    scan_query: 'site:sharechat.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Porter
+    careers_url: https://porter.in/careers
+    scan_method: websearch
+    scan_query: 'site:porter.in/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Darwinbox
+    careers_url: https://darwinbox.com/careers
+    scan_method: websearch
+    scan_query: 'site:darwinbox.com/careers "Backend" OR "Software Engineer" OR "SDE" Hyderabad'
+    enabled: true
+
+  - name: InMobi
+    careers_url: https://www.inmobi.com/company/careers
+    api: https://boards-api.greenhouse.io/v1/boards/inmobi/jobs
+    enabled: true
+
+  - name: Pine Labs
+    careers_url: https://www.pinelabs.com/careers
+    scan_method: websearch
+    scan_query: 'site:pinelabs.com/careers "Backend" OR "Software Engineer" OR "SDE" Noida'
+    enabled: true
+
+  - name: Druva
+    careers_url: https://www.druva.com/company/careers
+    api: https://boards-api.greenhouse.io/v1/boards/druva/jobs
+    enabled: true
+
+  - name: Zerodha
+    careers_url: https://zerodha.com/careers
+    scan_method: websearch
+    scan_query: 'site:zerodha.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Cashfree
+    careers_url: https://www.cashfree.com/careers
+    scan_method: websearch
+    scan_query: 'site:cashfree.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Paytm
+    careers_url: https://paytm.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:paytm.com/company/careers "Backend" OR "Software Engineer" OR "SDE" Noida'
+    enabled: true
+
+  # ── WAVE 3 — July Stretch (Global / Remote) ───────────────────────────────
+
+  - name: Atlassian
+    careers_url: https://www.atlassian.com/company/careers
+    api: https://boards-api.greenhouse.io/v1/boards/atlassian/jobs
+    enabled: true
+
+  - name: GitLab
+    careers_url: https://about.gitlab.com/jobs
+    api: https://boards-api.greenhouse.io/v1/boards/gitlab/jobs
+    enabled: true
+
+  - name: Datadog
+    careers_url: https://www.datadoghq.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/datadog/jobs
+    enabled: true
+
+  - name: Grafana Labs
+    careers_url: https://grafana.com/about/careers
+    api: https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs
+    enabled: true
+
+  - name: PostHog
+    careers_url: https://posthog.com/careers
+    scan_method: websearch
+    scan_query: 'site:posthog.com/careers "Backend" OR "Software Engineer" OR "SDE" remote'
+    enabled: true
+
+  - name: Sentry
+    careers_url: https://sentry.io/careers
+    api: https://boards-api.greenhouse.io/v1/boards/sentry/jobs
+    enabled: true
+
+  - name: Juspay
+    careers_url: https://juspay.in/careers
+    scan_method: websearch
+    scan_query: 'site:juspay.in/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore'
+    enabled: true
+
+  - name: Confluent
+    careers_url: https://confluent.io/careers
+    api: https://boards-api.greenhouse.io/v1/boards/confluent/jobs
+    enabled: true
+
+  - name: MongoDB
+    careers_url: https://www.mongodb.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/mongodb/jobs
+    enabled: true
+
+  - name: Sarvam AI
+    careers_url: https://sarvam.ai/careers
+    scan_method: websearch
+    scan_query: 'site:sarvam.ai/careers "Backend" OR "Software Engineer" OR "SDE" OR "AI Engineer" Bangalore'
+    enabled: true
+
+  - name: Krutrim
+    careers_url: https://krutrim.com/careers
+    scan_method: websearch
+    scan_query: 'site:krutrim.com/careers "Backend" OR "Software Engineer" OR "AI Engineer" Bangalore'
+    enabled: true
+
+  - name: Adobe India
+    careers_url: https://www.adobe.com/careers
+    scan_method: websearch
+    scan_query: 'site:adobe.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore OR Noida'
+    enabled: true
+
+  - name: Uber India
+    careers_url: https://www.uber.com/us/en/careers
+    scan_method: websearch
+    scan_query: 'site:uber.com/us/en/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore India'
+    enabled: true
+
+  - name: Salesforce India
+    careers_url: https://salesforce.com/careers
+    scan_method: websearch
+    scan_query: 'site:salesforce.com/careers "Backend" OR "Software Engineer" OR "SDE" Bangalore India'
+    enabled: true
+
+  - name: Canonical
+    careers_url: https://canonical.com/careers
+    scan_method: websearch
+    scan_query: 'site:canonical.com/careers "Backend" OR "Software Engineer" remote India'
+    enabled: true
+
+  # ── MOCK / FAANG ──────────────────────────────────────────────────────────
+
+  - name: Google India
+    careers_url: https://careers.google.com
+    scan_method: websearch
+    scan_query: 'site:careers.google.com "Software Engineer" OR "SDE" Bangalore India'
+    enabled: true
+
+  - name: Microsoft India
+    careers_url: https://careers.microsoft.com
+    scan_method: websearch
+    scan_query: 'site:careers.microsoft.com "Software Engineer" OR "SDE" Hyderabad OR Bangalore India'
+    enabled: true
+
+  - name: Amazon India
+    careers_url: https://www.amazon.jobs
+    scan_method: websearch
+    scan_query: 'site:amazon.jobs "Software Development Engineer" OR "SDE" Bangalore India'
+    enabled: true
