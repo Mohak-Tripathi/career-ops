@@ -282,6 +282,8 @@ Verify a posting is still live before applying — using the cheapest check that
 
 **Rule:** Always show the user what git command you intend to run and ask for confirmation before executing anything that modifies git state or pushes to remote.
 
+**Commit authorship:** NEVER add `Co-Authored-By: Claude` or any AI attribution to commit messages. Commits should appear as the user's own work only.
+
 ## Branching Strategy (User Rule)
 
 This repo has two separate tracks. Never mix them.
