@@ -2,9 +2,37 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 94 | 2026-06-25 | Sarvam AI | Staff Engineer, API Platform | 2.4/5 | Evaluated | ❌ | [073](../reports/073-sarvam-ai-2026-06-25.md) | SKIP — Go hard req, 7yr exp req, K8s required; 3 hard blockers |
+| 95 | 2026-06-25 | Niro | SDE2 Full Stack | 2.1/5 | Evaluated | ❌ | [074](../reports/074-niro-2026-06-25.md) | SKIP — comp 15-20 LPA, below 25 LPA hard floor |
+| 96 | 2026-06-25 | SignDesk | Senior Backend Engineer | 2.6/5 | Evaluated | ❌ | [075](../reports/075-signdesk-2026-06-25.md) | SKIP — 10yr experience required, 6+ years above current |
+| 97 | 2026-06-25 | Meesho | Backend Engineer (Search Lead) | 2.3/5 | Evaluated | ❌ | [076](../reports/076-meesho-2026-06-25.md) | SKIP — Java primary stack, Elasticsearch required, 5-10yr exp |
+| 98 | 2026-06-25 | Zomato | Software Engineer Backend | 2.8/5 | Evaluated | ❌ | [078](../reports/078-zomato-2026-06-25.md) | SKIP — PHP primary stack, no PHP in CV; Gurugram location |
+| 99 | 2026-06-25 | CloudSEK | SDE 1 & 2 Backend | 4.1/5 | Applied | ✅ | [079](../reports/079-cloudsek-2026-06-25.md) | Applied 2026-06-25; tailored PDF submitted; verify comp >=25 LPA in screening |
+| 100 | 2026-06-25 | Almabase | Senior Software Engineer | 1.5/5 | Discarded | ❌ | [080](../reports/080-almabase-2026-06-25.md) | DISCARDED — posting expired (no longer accepting applications) |
+| 101 | 2026-06-25 | Zeta Suite | SDE2 | 2.2/5 | Evaluated | ❌ | [081](../reports/081-zeta-suite-2026-06-25.md) | SKIP — Vue.js frontend role, wrong archetype; 4-6yr exp req |
+| 102 | 2026-06-25 | Flipkart | Software Development Engineer II | 3.6/5 | Evaluated | ❌ | [077](../reports/077-flipkart-sde2-2026-06-25.md) | CONSIDER — good exp match, Java/Go stack gap; verify posting still active (Feb 2025) |
+| 103 | 2026-06-25 | Flipkart | Software Development Engineer III | 3.0/5 | Evaluated | ❌ | [082](../reports/082-flipkart-sde3-2026-06-25.md) | SKIP — Go primary, K8s req; apply to SDE II (#077) instead |
+| 84 | 2026-06-25 | Intercom | Forward Deployed Software Engineer | 1.5/5 | Evaluated | - | [060](../reports/060-intercom-forward-deployed-swe-2026-06-25.md) | London hybrid hard NO -- forward-deployed field role, not product backend |
+| 85 | 2026-06-25 | Intercom | Senior Engineer, AI Developer | 2.0/5 | Evaluated | - | [061](../reports/061-intercom-senior-engineer-ai-developer-2026-06-25.md) | Dublin hybrid hard NO -- strong AI/LLM fit but no India eligibility |
+| 86 | 2026-06-25 | Intercom | Senior Full Stack Engineer - Team Web | 1.2/5 | Evaluated | - | [062](../reports/062-intercom-senior-fullstack-team-web-2026-06-25.md) | Dublin hybrid hard NO -- martech/webops, 8yr req vs 3.5yr |
+| 87 | 2026-06-25 | GitLab | AI Engineer | 2.2/5 | Evaluated | - | [063](../reports/063-gitlab-ai-engineer-2026-06-25.md) | Remote US only -- internal IT automation function, not product backend |
+| 88 | 2026-06-25 | GitLab | Senior AI Engineer | 1.8/5 | Evaluated | - | [064](../reports/064-gitlab-senior-ai-engineer-2026-06-25.md) | Remote US only -- senior IT automation, function + seniority mismatch |
+| 89 | 2026-06-25 | PostHog | Backend Engineer - Ingestion | 2.0/5 | Evaluated | - | [065](../reports/065-posthog-backend-engineer-ingestion-2026-06-25.md) | GMT-8/+2 only -- IST excluded, Rust gap; revisit if India opens |
+| 90 | 2026-06-25 | PostHog | Backend Engineer - Billing | 2.2/5 | Evaluated | - | [066](../reports/066-posthog-backend-engineer-billing-2026-06-25.md) | GMT-8/+2 only -- IST excluded; strongest PostHog fit (Razorpay/billing overlap) |
+| 91 | 2026-06-25 | PostHog | Backend Engineer - Feature Flags | 2.0/5 | Evaluated | - | [067](../reports/067-posthog-backend-engineer-feature-flags-2026-06-25.md) | GMT-8/+2 only -- IST excluded, Rust+Django double gap |
+| 92 | 2026-06-25 | Elastic | Elastic AI Engineer | 2.0/5 | Evaluated | - | [068](../reports/068-elastic-ai-engineer-2026-06-25.md) | Canada only -- internal IT team, requires 1yr Elastic Stack (hard gap) |
+| 93 | 2026-06-25 | Elastic | Senior Software Engineer - Vector Search | 1.2/5 | Evaluated | - | [069](../reports/069-elastic-senior-swe-vector-search-2026-06-25.md) | Canada only -- Java-only stack 99.8%, vector similarity algorithms research required |
+| 76 | 2026-06-25 | Postman | Senior Backend Engineer, Cloud Platform | 1.5/5 | Evaluated | ❌ | [052](../reports/052-postman-cloud-platform-2026-06-25.md) | SKIP: SF-only + Java required + 5yr req vs 3.5yr |
+| 77 | 2026-06-25 | Postman | Senior Engineer - Fabric Gateway | 2.2/5 | Evaluated | ❌ | [053](../reports/053-postman-fabric-gateway-2026-06-25.md) | SKIP: Go required (not in stack) + 6yr req vs 3.5yr; Bangalore location is good |
+| 78 | 2026-06-25 | Postman | Senior Engineer, Messaging Platform | 3.0/5 | Evaluated | ❌ | [054](../reports/054-postman-messaging-platform-2026-06-25.md) | Consider: Node.js+agentic AI match; 6yr req is real gate; Bangalore office |
+| 79 | 2026-06-25 | Postman | Senior Fullstack Software Engineer - (Customer Journey) | 1.5/5 | Evaluated | ❌ | [055](../reports/055-postman-customer-journey-2026-06-25.md) | SKIP: SF-only + 8yr req + frontend-primary role |
+| 80 | 2026-06-25 | Postman | Senior Software Engineer, Ecosystem | 1.5/5 | Evaluated | ❌ | [056](../reports/056-postman-ecosystem-2026-06-25.md) | SKIP: SF-only + 8yr req vs 3.5yr |
+| 81 | 2026-06-25 | Postman | Senior Software Engineer, Monetization | 2.0/5 | Evaluated | ❌ | [057](../reports/057-postman-monetization-2026-06-25.md) | SKIP: SF-only blocker; Node.js+Razorpay billing match would be strong if Bangalore role opens |
+| 82 | 2026-06-25 | Postman | Senior Software Engineer, Postman Insights | 1.5/5 | Evaluated | ❌ | [058](../reports/058-postman-insights-2026-06-25.md) | SKIP: SF Bay Area residency required + 7yr req |
+| 83 | 2026-06-25 | Postman | Software Engineer, Authorization | 3.8/5 | Evaluated | ❌ | [059](../reports/059-postman-authorization-2026-06-25.md) | Consider/Apply: best Postman fit; Node.js+RBAC direct match; 3yr req met; Hyderabad location friction |
 | 22 | 2026-06-24 | ClearFeed | Software Development Engineer (Node.js/NestJS) | 4.2/5 | Evaluated | ✅ | [019](../reports/019-clearfeed-2026-06-24.md) | Excellent NestJS+PG tech fit; comp indexed 10-15 LPA well below floor — verify before applying |
 | 23 | 2026-06-24 | Contentstack | Software Engineer I (Node.js Backend) | 3.5/5 | Evaluated | ❌ | [020](../reports/020-contentstack-2026-06-24.md) | Quality company; CLI/SDK focus mismatches backend profile; SWE I band likely below floor |
-| 24 | 2026-06-24 | Vyapar | Backend Developer (Node.js) | 4.4/5 | Evaluated | ✅ | [021](../reports/021-vyapar-2026-06-24.md) | Strong Node.js+PG match at 5M-user scale; verify comp ≥25 LPA before applying |
+| 24 | 2026-06-24 | Vyapar | Backend Developer (Node.js) | 4.4/5 | Discarded | ✅ | [021](../reports/021-vyapar-2026-06-24.md) | Archived 2026-06-25; monitor vyaparapp.in/careers for repost |
 | 25 | 2026-06-24 | BrowserStack | Software Engineer (Backend) | 2.0/5 | Discarded | ❌ | [022](../reports/022-browserstack-2026-06-24.md) | Posting expired (confirmed March 2025); discarded without full evaluation |
 | 19 | 2026-06-24 | Sarvam AI | Applied AI Engineer, Sarvam Agents | 3.9/5 | Evaluated | ❌ | [16](../reports/016-sarvam-ai-2026-06-24.md) | Strong agentic/RAG/voice AI match; Python backend hard gap — apply if you can bridge it |
 | 20 | 2026-06-24 | Tala | Senior Backend Engineer (Bangalore) | 2.1/5 | Evaluated | ❌ | [17](../reports/017-tala-2026-06-24.md) | Hard blockers: Java/Kotlin/Scala required (zero coverage) + 5yr min vs 3.5yr; posting may be stale |
@@ -15,7 +43,7 @@
 | 14 | 2026-06-24 | InMobi | SDE II, Data Platform | 2.2/5 | Evaluated | ❌ | [010](../reports/010-inmobi-sde2-data-platform-2026-06-24.md) | Spark/Flink/Iceberg data platform role in Lucknow — wrong stack and location, only Airflow overlap |
 | 15 | 2026-06-24 | InMobi | SDE 3, Data Platform Engineering | 1.6/5 | Evaluated | ❌ | [011](../reports/011-inmobi-sde3-data-platform-2026-06-24.md) | Hard disqualified — 7-10yr exp req, full Spark/Flink/Iceberg stack gap, Lucknow location |
 | 16 | 2026-06-24 | InMobi | SDE III, Gen AI | 3.1/5 | Evaluated | ❌ | [012](../reports/012-inmobi-sde3-gen-ai-2026-06-24.md) | Bangalore, right archetype (Gen AI), LangGraph/RAG overlap; blockers are Python gap and 5yr exp req |
-| 6 | 2026-06-24 | Telnyx | AI Integrations Engineer | 4.2/5 | Evaluated | ✅ | [006](../reports/006-telnyx-2026-06-24.md) | Exact stack match — Node.js/TS/Prisma/PostgreSQL. LangChain in production. Apply immediately. |
+| 6 | 2026-06-24 | Telnyx | AI Integrations Engineer | 4.2/5 | Applied | ✅ | [006](../reports/006-telnyx-2026-06-24.md) | Applied 2026-06-25; tailored AI/RAG answer submitted on Greenhouse form |
 | 7 | 2026-06-24 | Neysa Networks | Backend Engineer | 3.0/5 | Evaluated | ❌ | [007](../reports/007-neysa-networks-2026-06-24.md) | Excellent Node.js/TS stack. Hard blocker: 5-7yr exp req vs 3.5yr. Do not apply. |
 | 8 | 2026-06-24 | Netcore Unbxd | Senior Backend Engineer | 1.8/5 | Discarded | ❌ | [008](../reports/008-netcore-unbxd-2026-06-24.md) | SKIP. Golang/Java stack + 5-9yr exp req. Two hard blockers. |
 | 9 | 2026-06-24 | Snabbit | SDE2 (Fullstack) | 2.0/5 | Discarded | ❌ | [009](../reports/009-snabbit-2026-06-24.md) | SKIP. Mobile-primary role (Flutter/RN must-have). Wrong domain. |
@@ -24,7 +52,7 @@
 | 3 | 2026-06-24 | Amazon India | Backend Engineer SDE2 | 3.0/5 | Evaluated | ❌ | [3](../reports/003-amazon-india-2026-06-24.md) | Mock tier. Java gap. Apply via amazon.jobs for interview practice. |
 | 4 | 2026-06-24 | CRED | Backend Developer | 3.2/5 | Evaluated | ❌ | [4](../reports/004-cred-2026-06-24.md) | Golang gap. Prestige practice tier. Learn Go basics before applying. |
 | 5 | 2026-06-24 | PayU | Senior Software Engineer (Backend) | 2.5/5 | Discarded | ❌ | [5](../reports/005-payu-2026-06-24.md) | SKIP. Java stack + below 4yr minimum. Direct listing already closed. |
-| 26 | 2026-06-13 | CRED | Software Development Engineer 2 - Backend | 4.3/5 | Evaluated | ✅ | [001](../reports/001-cred-2026-06-13.md) | Strong unicorn match; Golang gap soft; 0→1 ownership story leads; apply |
+| 26 | 2026-06-13 | CRED | Software Development Engineer 2 - Backend | 4.3/5 | Discarded | ✅ | [001](../reports/001-cred-2026-06-13.md) | InstaHyre listing expired 2026-06-25; monitor CRED careers for repost |
 | 27 | 2026-06-13 | CRED | Senior Backend Developer | 2.5/5 | Evaluated | ❌ | [002](../reports/002-cred-senior-2026-06-13.md) | Hard skip — 7-10 YOE requirement; seniority mismatch; apply to CRED SDE-2 instead |
 | 28 | 2026-06-13 | PhonePe | Software Engineer Backend | 3.5/5 | Evaluated | ❌ | [003](../reports/003-phonepe-2026-06-13.md) | Consider — Java stack gap + 5-10 YOE mismatch; prep machine coding before applying |
 | 29 | 2026-06-13 | Groww | Backend Developer | 3.8/5 | Evaluated | ❌ | [004](../reports/004-groww-backend-2026-06-13.md) | Consider — Java/Kafka gap soft; 3-6 YOE squarely in range; verify posting freshness (low job ID) |
@@ -38,7 +66,7 @@
 | 37 | 2026-06-13 | BrowserStack | Software Engineer Backend | 2.8/5 | Evaluated | ❌ | [012](../reports/012-browserstack-2026-06-13.md) | Skip — entry level (0-2 YOE), Mumbai WFO, comp 15-20 LPA below floor; monitor for Senior BE opening |
 | 38 | 2026-06-13 | Meesho | Software Development Engineer III - Backend | 3.8/5 | Evaluated | ❌ | [013](../reports/013-meesho-2026-06-13.md) | Consider — highest comp in batch (50-68 LPA); Codeforces DSA + Java prep required first; 0→1 culture match strong |
 | 39 | 2026-06-13 | GetYourGuide | Senior Software Engineer (Backend focused) | 2.8/5 | Evaluated | ❌ | [014](../reports/014-getyourguide-2026-06-13.md) | skip — Java hard requirement + YOE gap + no IST remote |
-| 40 | 2026-06-13 | Postman | Software Engineer, IAM | 4.0/5 | Evaluated | ❌ | [015](../reports/015-postman-2026-06-13.md) | Apply — strong RBAC/multi-tenant alignment. Flag Hyderabad 5-day on-site before |
+| 40 | 2026-06-13 | Postman | Software Engineer, IAM | 4.0/5 | Applied | ✅ | [015](../reports/015-postman-2026-06-13.md) | Applied 2026-06-25; tailored IAM CV; Hyderabad 5-day on-site transition noted |
 | 41 | 2026-06-13 | GetYourGuide | Senior Software Engineer (Backend focused) - Supply | 2.8/5 | Evaluated | ❌ | [016](../reports/016-getyourguide-2026-06-13.md) | skip — Java hard requirement + YOE gap + no IST remote |
 | 42 | 2026-06-13 | Resend | Product Engineer (Americas) | 3.5/5 | Evaluated | ❌ | [017](../reports/017-resend-2026-06-13.md) | Apply cautiously — comp is exceptional, but YOE gap (3.5 vs 6+) and Americas timezone |
 | 43 | 2026-06-13 | GetYourGuide | Senior Software Engineer, GraphQL - API Platform | 3.6/5 | Evaluated | ❌ | [018](../reports/018-getyourguide-2026-06-13.md) | skip unless Berlin relocation viable — best-fit GYG role on tech, blocked on location |

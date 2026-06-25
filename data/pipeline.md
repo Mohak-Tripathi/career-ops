@@ -5,52 +5,75 @@
 
 ---
 
+- [x] ~~https://jobs.elastic.co/jobs?gh_jid=7982099&gh_jid=7982099 | Elastic | Principal Software Engineer I - Distributed Systems~~ — too senior (Principal) + UK only
+- [x] ~~https://jobs.elastic.co/jobs?gh_jid=8020871&gh_jid=8020871 | Elastic | Principal Software Engineer - Search Scaling~~ — too senior (Principal) + Sweden only
+- [x] ~~https://jobs.elastic.co/jobs?gh_jid=8020841&gh_jid=8020841 | Elastic | Principal Software Engineer - Vector Search~~ — too senior (Principal) + UK only
+- [x] ~~https://jobs.elastic.co/jobs?gh_jid=7893106&gh_jid=7893106 | Elastic | Senior Software Engineer - Docs Engineering~~ — docs tooling + Spain only
+- [x] ~~https://www.mongodb.com/careers/job/?gh_jid=7985996 | MongoDB | Senior Software Engineer~~ — expired (liveness sweep)
+- [x] ~~https://www.mongodb.com/careers/job/?gh_jid=7719763 | MongoDB | Software Engineer 3~~ — C++/Go stack + Canada only
+- [x] ~~https://www.mongodb.com/careers/job/?gh_jid=8026663 | MongoDB | Software Engineer 3, Query Integration~~ — C++/Go stack + Canada only
+- [x] ~~https://job-boards.greenhouse.io/gitlab/jobs/8432221002 | GitLab | Senior Backend Engineer (RoR/Go), SSCS: Pipeline Security~~ — Go required
+- [x] ~~https://job-boards.greenhouse.io/grafanalabs/jobs/6100724004 | Grafana Labs | Senior AI Engineer - Grafana AI/ML / USA / Remote~~ — USA only, no India
+- [x] ~~https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004 | Grafana Labs | Staff AI Engineer - Grafana AI/ML / USA / Remote~~ — USA only, no India
+- [x] ~~https://careers.datadoghq.com/detail/7957460/?gh_jid=7957460 | Datadog | Senior Software Engineer - Linux/eBPF~~ — EU remote only, no India
+- [x] ~~https://careers.datadoghq.com/detail/7959967/?gh_jid=7959967 | Datadog | Senior Software Engineer - REDAPL Graph Engine~~ — Portugal only, no India
+- [x] ~~https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606 | Datadog | Staff Software Engineer - Security Agent~~ — Portugal remote only, no India
+
 ## Pending
 
 <!-- === PRIORITY 3 (remaining): AI-first companies, India office === -->
-- [ ] https://www.sarvam.ai/careers/jobs/48b2c236-a7e7-475d-b98b-4eb942e85dc7 | Sarvam AI | Staff Engineer API Platform
-- [ ] https://job-boards.greenhouse.io/speechify/jobs/5614751004 | Speechify | Software Engineer Data Infrastructure (Bangalore)
-- [ ] https://job-boards.greenhouse.io/speechify/jobs/5614750004 | Speechify | Senior Software Engineer AI Model Serving (Bangalore)
+- [x] #073 | https://www.sarvam.ai/careers/jobs/48b2c236-a7e7-475d-b98b-4eb942e85dc7 | Sarvam AI | Staff Engineer API Platform | 2.4/5 | PDF ❌
+- [x] ~~https://job-boards.greenhouse.io/speechify/jobs/5614751004 | Speechify | Software Engineer Data Infrastructure~~ — expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/speechify/jobs/5614750004 | Speechify | Senior Software Engineer AI Model Serving~~ — expired (liveness sweep)
 
 <!-- === PRIORITY 5: Product companies, India + verify stack === -->
-- [ ] https://cutshort.io/job/SDE-2-FULL-STACK-Bengaluru-Bangalore-Niro-AHWRd5gO | Niro | SDE2 Full Stack
-- [ ] https://wellfound.com/jobs/3286311-senior-backend-engineer | SignDesk | Senior Backend Engineer (Bengaluru)
-- [ ] https://cutshort.io/job/Backend-Engineer-Bengaluru-Bangalore-Meesho-Az1qHcf8 | Meesho | Backend Engineer
-- [ ] https://jobs.lever.co/meesho/c68ee07f-0e16-455b-bc4a-87848aaf46fa | Meesho | Software Development Engineer III Backend
-- [ ] https://www.flipkartcareers.com/#!/job-view/software-development-engineer-ii-bangalore-karnataka-2025021809480090 | Flipkart | Software Development Engineer II (Bangalore)
-- [ ] https://careers.zerodhafundhouse.com/jobs/fIcGzo5_XSOr/backend-engineer | Zerodha Fund House | Backend Engineer (Bangalore)
-- [ ] https://jobs.smartrecruiters.com/Zomato1/104244178-software-engineer-back-end | Zomato | Software Engineer Backend (Gurugram)
+- [x] #074 | https://cutshort.io/job/SDE-2-FULL-STACK-Bengaluru-Bangalore-Niro-AHWRd5gO | Niro | SDE2 Full Stack | 2.1/5 | PDF ❌
+- [x] #075 | https://wellfound.com/jobs/3286311-senior-backend-engineer | SignDesk | Senior Backend Engineer (Bengaluru) | 2.6/5 | PDF ❌
+- [x] #076 | https://cutshort.io/job/Backend-Engineer-Bengaluru-Bangalore-Meesho-Az1qHcf8 | Meesho | Backend Engineer | 2.3/5 | PDF ❌
+- [x] ~~https://jobs.lever.co/meesho/c68ee07f-0e16-455b-bc4a-87848aaf46fa | Meesho | Software Development Engineer III Backend~~ — expired (liveness sweep)
+- [x] #077 | https://www.flipkartcareers.com/#!/job-view/software-development-engineer-ii-bangalore-karnataka-2025021809480090 | Flipkart | Software Development Engineer II (Bangalore) | 3.6/5 | PDF ❌
+- [x] ~~https://careers.zerodhafundhouse.com/jobs/fIcGzo5_XSOr/backend-engineer | Zerodha Fund House | Backend Engineer~~ — expired (liveness sweep)
+- [x] #078 | https://jobs.smartrecruiters.com/Zomato1/104244178-software-engineer-back-end | Zomato | Software Engineer Backend (Gurugram) | 2.8/5 | PDF ❌
 
 <!-- === PRIORITY 6: Postman (Bangalore office, Node.js-friendly) === -->
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7419694003 | Postman | Senior Backend Engineer, Cloud Platform
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7762102003 | Postman | Senior Engineer - Fabric Gateway
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7774448003 | Postman | Senior Engineer, Messaging Platform
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7715478003 | Postman | Senior Fullstack Software Engineer - (Customer Journey)
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7627390003 | Postman | Senior Software Engineer, Ecosystem
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7703523003 | Postman | Senior Software Engineer, Monetization
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7539839003 | Postman | Senior Software Engineer, Postman Insights
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7776298003 | Postman | Software Engineer, Authorization
-- [ ] https://job-boards.greenhouse.io/postman/jobs/7687341003 | Postman | Software Engineer, IAM
+- [x] #052 | https://job-boards.greenhouse.io/postman/jobs/7419694003 | Postman | Senior Backend Engineer, Cloud Platform | 1.5/5 | PDF ❌
+- [x] #053 | https://job-boards.greenhouse.io/postman/jobs/7762102003 | Postman | Senior Engineer - Fabric Gateway | 2.2/5 | PDF ❌
+- [x] #054 | https://job-boards.greenhouse.io/postman/jobs/7774448003 | Postman | Senior Engineer, Messaging Platform | 3.0/5 | PDF ❌
+- [x] #055 | https://job-boards.greenhouse.io/postman/jobs/7715478003 | Postman | Senior Fullstack Software Engineer - (Customer Journey) | 1.5/5 | PDF ❌
+- [x] #056 | https://job-boards.greenhouse.io/postman/jobs/7627390003 | Postman | Senior Software Engineer, Ecosystem | 1.5/5 | PDF ❌
+- [x] #057 | https://job-boards.greenhouse.io/postman/jobs/7703523003 | Postman | Senior Software Engineer, Monetization | 2.0/5 | PDF ❌
+- [x] #058 | https://job-boards.greenhouse.io/postman/jobs/7539839003 | Postman | Senior Software Engineer, Postman Insights | 1.5/5 | PDF ❌
+- [x] #059 | https://job-boards.greenhouse.io/postman/jobs/7776298003 | Postman | Software Engineer, Authorization | 3.8/5 | PDF ❌
+- [x] ~~https://job-boards.greenhouse.io/postman/jobs/7687341003 | Postman | Software Engineer, IAM~~ — already applied 2026-06-25 (#040)
 
 <!-- === PRIORITY 7: Intercom (India office, check stack) === -->
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/6949785 | Intercom | Senior Engineer, AI Developer
-- [ ] https://job-boards.greenhouse.io/intercom/jobs/7274831 | Intercom | Senior Full Stack Engineer - Team Web
+- [x] #060 | https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer | 1.5/5 | PDF - -- London hybrid, forward-deployed field role not product backend
+- [x] #061 | https://job-boards.greenhouse.io/intercom/jobs/6949785 | Intercom | Senior Engineer, AI Developer | 2.0/5 | PDF - -- Dublin hybrid, strong AI/LLM fit but no India eligibility
+- [x] #062 | https://job-boards.greenhouse.io/intercom/jobs/7274831 | Intercom | Senior Full Stack Engineer - Team Web | 1.2/5 | PDF - -- Dublin hybrid, martech/webops, 8yr req vs 3.5yr
 
 <!-- === PRIORITY 8: GitLab (AI roles, verify stack) === -->
-- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8565469002 | GitLab | AI Engineer
-- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8548545002 | GitLab | Senior AI Engineer
+- [x] #063 | https://job-boards.greenhouse.io/gitlab/jobs/8565469002 | GitLab | AI Engineer | 2.2/5 | PDF - -- Remote US only, internal IT automation not product backend
+- [x] #064 | https://job-boards.greenhouse.io/gitlab/jobs/8548545002 | GitLab | Senior AI Engineer | 1.8/5 | PDF - -- Remote US only, IT automation + seniority mismatch
 
 <!-- === PRIORITY 9: Remote-friendly === -->
-- [ ] https://posthog.com/careers/backend-engineer-ingestion | PostHog | Backend Engineer - Ingestion (Remote)
-- [ ] https://posthog.com/careers/backend-engineer-billing | PostHog | Backend Engineer - Billing (Remote)
-- [ ] https://posthog.com/careers/backend-engineer-feature-flags | PostHog | Backend Engineer - Feature Flags (Remote)
-- [ ] https://cutshort.io/job/SDE2-Bengaluru-Bangalore-Zeta-Suite-l54wWL0Z | Zeta Suite | SDE2
+- [x] #065 | https://posthog.com/careers/backend-engineer-ingestion | PostHog | Backend Engineer - Ingestion | 2.0/5 | PDF - -- GMT-8/+2 only, IST excluded; Rust gap
+- [x] #066 | https://posthog.com/careers/backend-engineer-billing | PostHog | Backend Engineer - Billing | 2.2/5 | PDF - -- GMT-8/+2 only, IST excluded; strongest PostHog fit (billing domain)
+- [x] #067 | https://posthog.com/careers/backend-engineer-feature-flags | PostHog | Backend Engineer - Feature Flags | 2.0/5 | PDF - -- GMT-8/+2 only, IST excluded; Rust+Django gap
+- [x] #081 | https://cutshort.io/job/SDE2-Bengaluru-Bangalore-Zeta-Suite-l54wWL0Z | Zeta Suite | SDE2 | 2.2/5 | PDF ❌
+
+<!-- === WebSearch scan 2026-06-25: Indian tech companies === -->
+- [x] ~~https://jobs.lever.co/dreamsports/af127ce8-6261-460c-85ba-9b28cf1aa949 | Dream Sports (Dream11) | SDE 2 Backend~~ — expired (liveness sweep)
+- [x] ~~https://jobs.lever.co/dreamsports/b8c9656c-19a8-493f-a7df-5b5ddb613609 | Dream Sports (Dream11) | SDE 3 Backend Platform~~ — expired (liveness sweep)
+- [x] #082 | https://www.flipkartcareers.com/flipkart/jobview/software-development-engineer-iii-bangalore-karnataka-2025112014290281?id=718142 | Flipkart | Software Development Engineer III (Bangalore) | 3.0/5 | PDF ❌
+- [x] ~~https://browserstack.wd3.myworkdayjobs.com/en-US/External/job/Senior-Software-Engineer---Backend--Mumbai---Work-from-office-_JR102606 | BrowserStack | Senior Software Engineer Backend~~ — expired (liveness sweep)
+- [x] #079 | https://job-boards.greenhouse.io/cloudsek/jobs/5551451004 | CloudSEK | SDE 1 & 2 Backend (Bangalore) | 4.1/5 | PDF ✅
+- [x] #080 | https://jobs.ashbyhq.com/Almabase/5c2eb299-b922-41ad-933f-728a0cb1f39d | Almabase | Senior Software Engineer (Bangalore) | 1.5/5 | PDF ❌
+- [x] ~~https://jobs.lever.co/epifi/49d3c20b-b25d-4c4f-a58a-359674107659 | Fi Money | Software Engineer Backend~~ — expired (liveness sweep)
 
 <!-- === EVALUATE LAST: interesting but harder sells === -->
-- [ ] https://job-boards.greenhouse.io/operantai/jobs/5269140008 | Operant AI | Staff Software Engineer - AI & Agentic Security (Bangalore)
-- [ ] https://jobs.elastic.co/jobs?gh_jid=7858138&gh_jid=7858138 | Elastic | Elastic AI Engineer
-- [ ] https://jobs.elastic.co/jobs?gh_jid=7699075&gh_jid=7699075 | Elastic | Senior Software Engineer - Vector Search
+- [x] ~~https://job-boards.greenhouse.io/operantai/jobs/5269140008 | Operant AI | Staff Software Engineer - AI & Agentic Security~~ — expired (liveness sweep)
+- [x] #068 | https://jobs.elastic.co/jobs?gh_jid=7858138&gh_jid=7858138 | Elastic | Elastic AI Engineer | 2.0/5 | PDF - -- Canada only, internal IT team, requires 1yr Elastic Stack
+- [x] #069 | https://jobs.elastic.co/jobs?gh_jid=7699075&gh_jid=7699075 | Elastic | Senior Software Engineer - Vector Search | 1.2/5 | PDF - -- Canada only, Java-only 99.8%, vector similarity research role
 
 ---
 
