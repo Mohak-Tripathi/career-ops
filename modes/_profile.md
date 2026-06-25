@@ -53,17 +53,21 @@ Frame everything around **shipped, measured, live** — not "I know LangChain", 
 
 ## Your Location Policy
 
-- **Primary:** Bengaluru — full marks, no penalty
-- **Acceptable:** Mumbai, Gurgaon, Delhi NCR, Noida — apply, score normally
-- **Stretch:** Hyderabad, Pune, Chennai — apply if company is exceptional; note location friction
-- **Remote:** Always preferred, bonus points if available
-- **Hard NO:** Relocation outside India this cycle
+Open to working **anywhere in the world**. Location is never a reason to skip or deprioritize a role.
+
+- **India (any city):** Full marks, no penalty
+- **Remote (any timezone, anywhere):** Full marks, no penalty — IST-unfriendly hours are a soft note in the report, not a blocker
+- **Overseas in-office (EU, US, AU, NZ, APAC) — well-known / reputable company:** Evaluate fully; verify visa sponsorship; flag it in Block C
+- **Overseas in-office — unknown/unverifiable startup:** Downgrade for relocation risk; apply only if company legitimacy is confirmed
+- **FAANG / big tech / well-known scale-ups anywhere:** Evaluate fully; flag visa sponsorship requirement
+
+**The only hard filter for overseas roles: Visa sponsorship must be offered.** If the JD or company policy explicitly states no visa sponsorship → skip. If sponsorship is confirmed or not mentioned (default is to check during screening) → proceed normally.
 
 **Scoring adjustments:**
-- Bengaluru / Remote: no penalty
-- Mumbai / NCR: score normally (full credit)
-- Hyderabad / Pune: -0.2 on location dimension
-- Chennai / Other: -0.5 on location dimension; only apply if total score still ≥ 4.0
+- India / Remote anywhere: no penalty
+- Overseas in-office at known company with visa sponsorship: no penalty
+- Overseas in-office at unknown startup: -0.5 for relocation risk
+- No visa sponsorship explicitly stated for overseas: skip (treat as hard blocker)
 
 ## Interview Prep Notes
 

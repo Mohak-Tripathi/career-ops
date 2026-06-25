@@ -63,6 +63,10 @@ location:
   city: "Bengaluru"
   timezone: "IST (UTC+5:30)"
   visa_status: "Indian citizen, no sponsorship needed"
+  open_to_relocation: true
+  relocation_targets: ["EU", "US", "Australia", "New Zealand", "APAC", "Remote (global)"]
+  relocation_requirement: "Visa sponsorship must be provided for overseas office roles"
+  relocation_constraint: "Unknown/unverifiable startups abroad are a skip — relocation risk too high"
 
 cover_letter:
   notice_period_days: 30

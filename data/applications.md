@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 107 | 2026-06-25 | Ema | Software Engineer, Backend | 3.6/5 | Evaluated | ❌ | [084](../reports/084-ema-2026-06-25.md) | Agentic AI platform; strong AI/multi-tenant match but 7+ YOE req vs 3.5 actual + Go lang gap; worth applying with YOE narrative |
+| 108 | 2026-06-25 | Bolster | Senior SWE Backend | 3.2/5 | Evaluated | ❌ | [087](../reports/087-bolster-2026-06-25.md) | Remote India; TypeScript+PostgreSQL match but Elasticsearch gap + 6yr req; comp risk high — verify before applying |
+| 104 | 2026-06-25 | Sarvam AI | Backend Engineer, API Team | 3.0/5 | Evaluated | ❌ | [083](../reports/083-sarvam-ai-2026-06-25.md) | Python-first stack vs Node.js primary — apply with caution; comp unconfirmed, verify ≥25 LPA |
+| 105 | 2026-06-25 | Glowroad | Backend Engineer SDE 1/2 | 2.1/5 | Evaluated | ❌ | [085](../reports/085-glowroad-2026-06-25.md) | Java/Spring hard mismatch; comp floor uncertain; SKIP |
+| 106 | 2026-06-25 | Juspay | Software Development Engineer Backend | 1.8/5 | Evaluated | ❌ | [086](../reports/086-juspay-2026-06-25.md) | SKIP — PureScript/Haskell hard blocker + intern-level role + comp below 25 LPA floor |
 | 94 | 2026-06-25 | Sarvam AI | Staff Engineer, API Platform | 2.4/5 | Evaluated | ❌ | [073](../reports/073-sarvam-ai-2026-06-25.md) | SKIP — Go hard req, 7yr exp req, K8s required; 3 hard blockers |
 | 95 | 2026-06-25 | Niro | SDE2 Full Stack | 2.1/5 | Evaluated | ❌ | [074](../reports/074-niro-2026-06-25.md) | SKIP — comp 15-20 LPA, below 25 LPA hard floor |
 | 96 | 2026-06-25 | SignDesk | Senior Backend Engineer | 2.6/5 | Evaluated | ❌ | [075](../reports/075-signdesk-2026-06-25.md) | SKIP — 10yr experience required, 6+ years above current |
@@ -29,7 +34,7 @@
 | 80 | 2026-06-25 | Postman | Senior Software Engineer, Ecosystem | 1.5/5 | Evaluated | ❌ | [056](../reports/056-postman-ecosystem-2026-06-25.md) | SKIP: SF-only + 8yr req vs 3.5yr |
 | 81 | 2026-06-25 | Postman | Senior Software Engineer, Monetization | 2.0/5 | Evaluated | ❌ | [057](../reports/057-postman-monetization-2026-06-25.md) | SKIP: SF-only blocker; Node.js+Razorpay billing match would be strong if Bangalore role opens |
 | 82 | 2026-06-25 | Postman | Senior Software Engineer, Postman Insights | 1.5/5 | Evaluated | ❌ | [058](../reports/058-postman-insights-2026-06-25.md) | SKIP: SF Bay Area residency required + 7yr req |
-| 83 | 2026-06-25 | Postman | Software Engineer, Authorization | 3.8/5 | Evaluated | ❌ | [059](../reports/059-postman-authorization-2026-06-25.md) | Consider/Apply: best Postman fit; Node.js+RBAC direct match; 3yr req met; Hyderabad location friction |
+| 83 | 2026-06-25 | Postman | Software Engineer, Authorization | 3.8/5 | Applied | ✅ | [059](../reports/059-postman-authorization-2026-06-25.md) | Applied 2026-06-25; Node.js+RBAC direct match; Hyderabad |
 | 22 | 2026-06-24 | ClearFeed | Software Development Engineer (Node.js/NestJS) | 4.2/5 | Evaluated | ✅ | [019](../reports/019-clearfeed-2026-06-24.md) | Excellent NestJS+PG tech fit; comp indexed 10-15 LPA well below floor — verify before applying |
 | 23 | 2026-06-24 | Contentstack | Software Engineer I (Node.js Backend) | 3.5/5 | Evaluated | ❌ | [020](../reports/020-contentstack-2026-06-24.md) | Quality company; CLI/SDK focus mismatches backend profile; SWE I band likely below floor |
 | 24 | 2026-06-24 | Vyapar | Backend Developer (Node.js) | 4.4/5 | Discarded | ✅ | [021](../reports/021-vyapar-2026-06-24.md) | Archived 2026-06-25; monitor vyaparapp.in/careers for repost |
@@ -58,8 +63,8 @@
 | 29 | 2026-06-13 | Groww | Backend Developer | 3.8/5 | Evaluated | ❌ | [004](../reports/004-groww-backend-2026-06-13.md) | Consider — Java/Kafka gap soft; 3-6 YOE squarely in range; verify posting freshness (low job ID) |
 | 30 | 2026-06-13 | Groww | Software Engineer | 3.8/5 | Evaluated | ❌ | [005](../reports/005-groww-swe-2026-06-13.md) | Consider — sister role to #004; apply to both; verify posting freshness |
 | 31 | 2026-06-13 | Darwinbox | Sr. Software Engineer (SDE-2) | 3.2/5 | Evaluated | ❌ | [006](../reports/006-darwinbox-2026-06-13.md) | Skip — SDE-2 comp 14-20 LPA likely below 25 LPA floor; stack match good but comp disqualifies |
-| 32 | 2026-06-13 | Blinkit | Software Development Engineer - Backend | 4.0/5 | Evaluated | ❌ | [007](../reports/007-blinkit-2026-06-13.md) | Apply — Zomato-owned unicorn, Gurgaon homecoming; real-time systems match; verify LinkedIn posting still active |
-| 33 | 2026-06-13 | Razorpay | Software Engineer | 4.2/5 | Evaluated | ❌ | [008](../reports/008-razorpay-swe-2026-06-13.md) | Apply — Rails+Node.js stack match, Razorpay billing proof point is killer differentiator; top pick in batch |
+| 32 | 2026-06-13 | Blinkit | Software Development Engineer - Backend | 4.0/5 | Discarded | ✅ | [007](../reports/007-blinkit-2026-06-13.md) | posting expired 2026-06-25 |
+| 33 | 2026-06-13 | Razorpay | Software Engineer | 4.2/5 | Discarded | ✅ | [008](../reports/008-razorpay-swe-2026-06-13.md) | posting expired 2026-06-25 |
 | 34 | 2026-06-13 | Razorpay | Senior Software Development Engineer | 3.7/5 | Evaluated | ❌ | [009](../reports/009-razorpay-senior-2026-06-13.md) | Consider — apply alongside #008; expect downlevel to SE; billing proof point strong for both |
 | 35 | 2026-06-13 | Atlassian | Senior Backend Software Engineer | 3.0/5 | Evaluated | ❌ | [010](../reports/010-atlassian-backend-2026-06-13.md) | Skip — 7-11 YOE hard seniority gap; monitor for P40 mid-level openings instead |
 | 36 | 2026-06-13 | Atlassian | Senior Full Stack Software Engineer | 3.2/5 | Evaluated | ❌ | [011](../reports/011-atlassian-fullstack-2026-06-13.md) | Skip — seniority gap; best stack match (Rails+React+PostgreSQL) but Senior bar too high at 3.5 YOE |
@@ -68,24 +73,24 @@
 | 39 | 2026-06-13 | GetYourGuide | Senior Software Engineer (Backend focused) | 2.8/5 | Evaluated | ❌ | [014](../reports/014-getyourguide-2026-06-13.md) | skip — Java hard requirement + YOE gap + no IST remote |
 | 40 | 2026-06-13 | Postman | Software Engineer, IAM | 4.0/5 | Applied | ✅ | [015](../reports/015-postman-2026-06-13.md) | Applied 2026-06-25; tailored IAM CV; Hyderabad 5-day on-site transition noted |
 | 41 | 2026-06-13 | GetYourGuide | Senior Software Engineer (Backend focused) - Supply | 2.8/5 | Evaluated | ❌ | [016](../reports/016-getyourguide-2026-06-13.md) | skip — Java hard requirement + YOE gap + no IST remote |
-| 42 | 2026-06-13 | Resend | Product Engineer (Americas) | 3.5/5 | Evaluated | ❌ | [017](../reports/017-resend-2026-06-13.md) | Apply cautiously — comp is exceptional, but YOE gap (3.5 vs 6+) and Americas timezone |
-| 43 | 2026-06-13 | GetYourGuide | Senior Software Engineer, GraphQL - API Platform | 3.6/5 | Evaluated | ❌ | [018](../reports/018-getyourguide-2026-06-13.md) | skip unless Berlin relocation viable — best-fit GYG role on tech, blocked on location |
+| 42 | 2026-06-13 | Resend | Product Engineer (Americas) | 3.5/5 | Evaluated | ✅ | [017](../reports/017-resend-2026-06-13.md) | Apply cautiously — comp is exceptional, but YOE gap (3.5 vs 6+) and Americas timezone |
+| 43 | 2026-06-13 | GetYourGuide | Senior Software Engineer, GraphQL - API Platform | 3.6/5 | Evaluated | ✅ | [018](../reports/018-getyourguide-2026-06-13.md) | skip unless Berlin relocation viable — best-fit GYG role on tech, blocked on location |
 | 44 | 2026-06-13 | Resend | Backend Engineer (Infra), Core Sending | 2.5/5 | Evaluated | ❌ | [019](../reports/019-resend-2026-06-13.md) | Skip — 8+ years required vs 3.5 YOE. Hard experience mismatch. Revisit in 3-4 years |
 | 45 | 2026-06-13 | GetYourGuide | Senior Software Engineer, Search Platform | 2.6/5 | Evaluated | ❌ | [020](../reports/020-getyourguide-2026-06-13.md) | skip — Java + search engine gaps + YOE gap + no IST remote |
 | 46 | 2026-06-13 | Resend | Backend Engineer (MTA), Core Sending | 2.0/5 | Evaluated | ❌ | [021](../reports/021-resend-2026-06-13.md) | Skip — deep email/MTA domain expertise required (SMTP, DKIM, IP warmup, bounce checks) |
 | 47 | 2026-06-13 | HelloFresh | Backend Engineer, Consumer | 2.9/5 | Evaluated | ❌ | [022](../reports/022-hellofresh-2026-06-13.md) | skip — language gap + no IST remote |
 | 48 | 2026-06-13 | Hightouch | Full Stack Product Engineer | 3.0/5 | Evaluated | ❌ | [023](../reports/023-hightouch-2026-06-13.md) | Skip — double mismatch: frontend-primary role + North America remote restriction |
 | 49 | 2026-06-13 | HelloFresh | Senior Backend Engineer | 2.7/5 | Evaluated | ❌ | [024](../reports/024-hellofresh-2026-06-13.md) | skip — language gap + location + EU visa |
-| 50 | 2026-06-13 | Hightouch | Software Engineer, Distributed Systems | 3.5/5 | Evaluated | ❌ | [025](../reports/025-hightouch-2026-06-13.md) | Apply cautiously — ETL/pipeline background is directly relevant, but scale gap and NA remote |
+| 50 | 2026-06-13 | Hightouch | Software Engineer, Distributed Systems | 3.5/5 | Evaluated | ✅ | [025](../reports/025-hightouch-2026-06-13.md) | Apply cautiously — ETL/pipeline background is directly relevant, but scale gap and NA remote |
 | 51 | 2026-06-13 | HelloFresh | Senior Backend Engineer, Finance Tech | 2.5/5 | Evaluated | ❌ | [026](../reports/026-hellofresh-2026-06-13.md) | skip — JVM stack gap + ERP domain + location |
-| 52 | 2026-06-13 | Hightouch | Software Engineer, Control Plane | 3.8/5 | Evaluated | ❌ | [027](../reports/027-hightouch-2026-06-13.md) | Apply — strongest skill alignment in the Hightouch batch: RBAC/multi-tenant is a direct match |
+| 52 | 2026-06-13 | Hightouch | Software Engineer, Control Plane | 3.8/5 | Applied | ✅ | [027](../reports/027-hightouch-2026-06-13.md) | Applied 2026-06-25; RBAC/multi-tenant direct match; remote |
 | 53 | 2026-06-13 | HelloFresh | Senior Backend Engineer, Operations | 3.2/5 | Evaluated | ❌ | [028](../reports/028-hellofresh-2026-06-13.md) | skip unless Toronto relocation viable — best-fit HF role on tech |
 | 54 | 2026-06-13 | Hightouch | Software Engineer, Streaming Systems | 3.3/5 | Evaluated | ❌ | [029](../reports/029-hightouch-2026-06-13.md) | Apply cautiously — IoT real-time ingestion is an analog for streaming, but scale gap and NA remote |
 | 55 | 2026-06-13 | SumUp | (Senior) Backend Engineer | 2.6/5 | Evaluated | ❌ | [030](../reports/030-sumup-2026-06-13.md) | skip — Go gap + location + Brazil work authorization |
-| 56 | 2026-06-13 | Vercel | Software Engineer, Backend | 3.8/5 | Evaluated | ❌ | [031](../reports/031-vercel-2026-06-13.md) | Apply with gap mitigation — strong TypeScript/RBAC alignment, but OAuth2/SAML/SCIM gaps |
+| 56 | 2026-06-13 | Vercel | Software Engineer, Backend | 3.8/5 | Applied | ✅ | [031](../reports/031-vercel-2026-06-13.md) | Applied 2026-06-25; TypeScript/RBAC direct match; remote |
 | 57 | 2026-06-13 | SumUp | Backend Engineer (Global Bank Tribe) | 2.7/5 | Evaluated | ❌ | [032](../reports/032-sumup-2026-06-13.md) | skip — JVM/Go stack + Brazil location |
 | 58 | 2026-06-13 | SumUp | Backend Engineer (Go) - Payments Experience | 2.5/5 | Evaluated | ❌ | [033](../reports/033-sumup-2026-06-13.md) | skip — Go hard requirement + Sofia location |
-| 59 | 2026-06-13 | SumUp | Full Stack Engineer - Billings & Subscriptions | 3.9/5 | Evaluated | ❌ | [034](../reports/034-sumup-2026-06-13.md) | apply if Berlin relocation viable — best stack match in entire SumUp batch; billing domain match |
+| 59 | 2026-06-13 | SumUp | Full Stack Engineer - Billings & Subscriptions | 3.9/5 | Applied | ✅ | [034](../reports/034-sumup-2026-06-13.md) | Applied 2026-06-25; billing/subscription domain direct match; Berlin — visa sponsorship required |
 | 60 | 2026-06-13 | Intercom (Fin) | Senior Product Engineer | 3.2/5 | Evaluated | ❌ | [035](../reports/035-intercom-2026-06-13.md) | do not apply |
 | 61 | 2026-06-13 | Intercom (Fin) | Senior Product Engineer, AI | 2.5/5 | Evaluated | ❌ | [036](../reports/036-intercom-2026-06-13.md) | skip |
 | 62 | 2026-06-13 | Intercom (Fin) | Senior Product Engineer - Pricing & Packaging | 3.3/5 | Evaluated | ❌ | [037](../reports/037-intercom-2026-06-13.md) | do not apply |
@@ -93,7 +98,7 @@
 | 64 | 2026-06-13 | Intercom (Fin) | Senior Full Stack Engineer - Team Web | 2.4/5 | Evaluated | ❌ | [039](../reports/039-intercom-2026-06-13.md) | skip |
 | 65 | 2026-06-13 | PlanetScale | Software Engineer - Platform | 2.8/5 | Evaluated | ❌ | [040](../reports/040-planetscale-2026-06-13.md) | do not apply now — revisit after Go skill development |
 | 66 | 2026-06-13 | PlanetScale | Software Engineer - Insights | 3.0/5 | Evaluated | ❌ | [041](../reports/041-planetscale-2026-06-13.md) | conditional — verify India remote eligibility first; if confirmed, strong data pipeline overlap |
-| 67 | 2026-06-13 | PlanetScale | Software Engineer - Surfaces | 3.8/5 | Evaluated | ❌ | [042](../reports/042-planetscale-2026-06-13.md) | conditional — confirm India remote eligibility, then apply; strongest PlanetScale match |
+| 67 | 2026-06-13 | PlanetScale | Software Engineer - Surfaces | 3.8/5 | Discarded | ❌ | [042](../reports/042-planetscale-2026-06-13.md) | posting expired 2026-06-25 (API 404) |
 | 68 | 2026-06-13 | Glean | Software Engineer, Backend | 2.6/5 | Evaluated | ❌ | [043](../reports/043-glean-2026-06-13.md) | skip |
 | 69 | 2026-06-13 | WorkOS | Product Engineer - Enterprise | 3.2/5 | Evaluated | ❌ | [044](../reports/044-workos-2026-06-13.md) | skip |
 | 70 | 2026-06-13 | WorkOS | Product Engineer - AuthKit | 3.2/5 | Evaluated | ❌ | [045](../reports/045-workos-2026-06-13.md) | skip |

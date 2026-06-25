@@ -5,7 +5,7 @@
 **Archetype:** Backend / Platform Engineer (SDE-2) + API / Infrastructure Engineer
 **Score:** 3.6/5
 **Legitimacy:** Proceed with Caution
-**PDF:** not generated — run /career-ops pdf getyourguide-graphql-api-platform to create on demand
+**PDF:** output/cv-mohak-tripathi-getyourguide-2026-06-25.pdf
 
 ---
 

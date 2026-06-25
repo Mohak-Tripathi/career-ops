@@ -19,7 +19,27 @@
 - [x] ~~https://careers.datadoghq.com/detail/7959967/?gh_jid=7959967 | Datadog | Senior Software Engineer - REDAPL Graph Engine~~ — Portugal only, no India
 - [x] ~~https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606 | Datadog | Staff Software Engineer - Security Agent~~ — Portugal remote only, no India
 
+- [x] ~~https://job-boards.greenhouse.io/grafanalabs/jobs/6100725004 | Grafana Labs | Senior AI Engineer - Grafana AI/ML / USA / Remote~~ — USA only, no India
+- [x] ~~https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004 | Grafana Labs | Staff AI Engineer - Grafana AI/ML / USA / Remote~~ — USA only + Staff level
+- [x] ~~https://jobs.elastic.co/jobs?gh_jid=8002555&gh_jid=8002555 | Elastic | Principal Software Engineer I - Distributed Systems - Elasticsearch~~ — too senior (Principal)
+- [x] ~~https://jobs.elastic.co/jobs?gh_jid=8020857&gh_jid=8020857 | Elastic | Principal Software Engineer - Search Scaling - Elasticsearch~~ — too senior (Principal)
+- [x] ~~https://jobs.elastic.co/jobs?gh_jid=8020846&gh_jid=8020846 | Elastic | Principal Software Engineer - Vector Search - Elasticsearch~~ — too senior (Principal)
+- [x] ~~https://www.mongodb.com/careers/job/?gh_jid=7939397 | MongoDB | Software Engineer 3~~ — C++/Go stack
+- [x] ~~https://www.mongodb.com/careers/job/?gh_jid=8010102 | MongoDB | Software Engineer 3, Query Integration~~ — C++/Go stack
+
 ## Pending
+
+<!-- === WebSearch scan 2026-06-25 (Level 3): Indian tech companies + portals === -->
+- [x] #083 | https://www.sarvam.ai/careers/jobs/f46a00ea-a25b-478d-92b9-7a2deb129f5b | Sarvam AI | Backend Engineer, API Team | 3.0/5 | PDF ❌
+- [x] ~~https://job-boards.greenhouse.io/postman/jobs/7534301003 | Postman | Senior Engineer, Backend - Workspaces | Bangalore~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/karat/jobs/8096990002 | Karat | Senior Software Engineer, Backend | India (remote)~~ — posting expired (liveness sweep)
+- [x] ~~https://job-boards.greenhouse.io/karat/jobs/8097012002 | Karat | Software Engineer (SWE3), Backend | India (remote)~~ — posting expired (liveness sweep)
+- [x] #084 | https://jobs.ashbyhq.com/ema/eb62df31-0370-447f-8cc6-707e79cbc9fa | Ema | Software Engineer, Backend | 3.6/5 | PDF ❌
+- [x] ~~https://smallcase.freshteam.com/jobs/nCyDDGyJinn8/backend-engineer | smallcase | Backend Engineer | Bangalore~~ — posting expired (liveness sweep)
+- [x] #085 | https://cutshort.io/job/Backend-Engineer-SDE-1-2-Bengaluru-Bangalore-Glowroad-knlzsSJa | Glowroad | Backend Engineer SDE 1/2 | 2.1/5 | PDF ❌
+- [x] ~~https://wellfound.com/jobs/1221802-sde-ii-iii-backend | Probo | Backend Engineer SDE II/III | Gurgaon~~ — company shut down (real-money gaming ban Aug 2025; ED raids; no operations as of 2026)
+- [x] #086 | https://juspay.io/careers/DEV-BE02 | Juspay | Software Development Engineer Backend | 1.8/5 | PDF ❌
+- [x] #087 | https://jobs.lever.co/bolster/cd85d0f8-51c4-467f-9e4d-cd04b2a3be47 | Bolster | Senior Software Engineer, Backend - India | Remote India | 3.2/5 | PDF ❌
 
 <!-- === PRIORITY 3 (remaining): AI-first companies, India office === -->
 - [x] #073 | https://www.sarvam.ai/careers/jobs/48b2c236-a7e7-475d-b98b-4eb942e85dc7 | Sarvam AI | Staff Engineer API Platform | 2.4/5 | PDF ❌
